@@ -1,0 +1,30 @@
+img {
+	width:285px;
+}
+
+body {
+	background-color: 
+violet;
+}
+
+
+/*descendant selector*/
+.lyft-info img{
+	width:285px;
+}
+
+.home-page-jumbotron{
+	position: relative;
+	top: 30px;
+	background-color: tomato;
+	height:500px;
+	background-image:url("http://science-all.com/images/cactus/cactus-03.jpg");
+	color:white;
+	font-family:Georiga;
+	font-style:strong;
+}
+
+
+
+
+
